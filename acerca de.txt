@@ -4,3 +4,10 @@ Nacionalidad: 		mexicano
 Originario de: 		Puebla, Puebla
 Estudios:		Ing. en Tecnologias de la Información
 Profesi�n:		Estudiante
+
+Nombre:			Rabi Soto Camacho
+Edad:			31
+Nacionalidad:		Mexicano
+Originario de		Chiapas,Mexico
+Estudios:		Lic. en Electronica
+Profesion:		Estudiante Doctorado
